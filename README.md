@@ -1,2 +1,2 @@
 # .vimrc
-Simple vim config
+Minimal vim config
